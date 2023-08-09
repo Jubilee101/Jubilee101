@@ -5,6 +5,8 @@
 
 **I like systems and open source.**
 
+**I love feedbacks and suggestions! Tell me what you think [here](https://forms.gle/egNuZ2oQaJbcjjnm6), it's anonymous!**
+
 **Fun fact: I got my GitHub ID from Paul McCartney's *Junk*, before I knew it was quite hard to change after a while...**
 
 <!--

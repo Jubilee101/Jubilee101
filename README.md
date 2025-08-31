@@ -1,9 +1,8 @@
 ### Hello there
-<!-- [![Yeah yeah here's the GitHub stats](https://github-readme-stats.vercel.app/api?username=Jubilee101&count_private=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Yeah yeah here's the GitHub stats](https://github-readme-stats.vercel.app/api?username=Jubilee101&count_private=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
-**Yeah, flashing stats is cheesy but here we are ¯\\_(ツ)_/¯** -->
+<!-- **Yeah, flashing stats is cheesy but here we are ¯\\_(ツ)_/¯** -->
 
-I like systems (trying to get good) and open source.
 
 I'm currently working on [pgmoneta](https://github.com/pgmoneta/pgmoneta), consider giving stars!
 
